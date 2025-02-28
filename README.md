@@ -1,6 +1,8 @@
 
+## Curso para Revisão de Estudos
+Este projeto foi criado como uma forma de revisão contínua para manter os conhecimentos atualizados com as demandas do dia a dia no desenvolvimento de software. O objetivo é consolidar conceitos e práticas adquiridas em estudos, além de experimentar novas tecnologias e ferramentas.
+
 # Curso de API com Python na nuvem com AWS. 
-Curo
 
 ## Introdução ao conteúdo!
 
@@ -13,6 +15,3 @@ Curo
 ### Criação da API.
 ### Criação de testes para a API.
 ### Deploy da API na AWS.
-
-## Curso para Revisão de Estudos
-Este projeto foi criado como uma forma de revisão contínua para manter os conhecimentos atualizados com as demandas do dia a dia no desenvolvimento de software. O objetivo é consolidar conceitos e práticas adquiridas em estudos, além de experimentar novas tecnologias e ferramentas.
